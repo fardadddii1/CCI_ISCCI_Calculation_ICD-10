@@ -104,4 +104,4 @@ elif choice == 'ISCCI':
 
         CMS_data.to_csv('ISCCI_scores_NOPOA.csv')
 
-print('Data is saved')
+print('Data is saved and ready to go')
