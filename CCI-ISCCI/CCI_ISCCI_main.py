@@ -1,6 +1,5 @@
 Created on Mon Dec 15 2021
 @author: Fardad Mousavi
-
 import pandas as pd
 from pandas import DataFrame, Series
 import numpy as np
